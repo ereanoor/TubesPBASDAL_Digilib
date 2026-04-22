@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$dbname = "perpustakaan_digital";
+$dbname = "tubes_basda";
 $username = "root";
 $password = "";
 
